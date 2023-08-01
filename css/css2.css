@@ -1,0 +1,15 @@
+div{
+	width: 1500px;
+	height: 715px;
+	background-image:url('html/image/car.jpg');
+	background-repeat: no-repeat;
+	border: 5px dashed blue;
+	background-size: cover;
+}
+h1{
+	font size: 50px;
+	color: red;
+	text-align: center;
+}
+
+
